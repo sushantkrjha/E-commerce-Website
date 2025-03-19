@@ -81,5 +81,17 @@ export const items =  [
       price: '89999',
     },
 
+    {
+      id: 10,
+      category: 'tablets',
+      title: "Samsung Galaxy Tab",
+      imgSrc: 'https://m.media-amazon.com/images/I/61afkty1foL._SL1500_.jpg',
+      amazonLink: 'https://amzn.to/3r9rvhm',
+      description: 'Samsung Galaxy Tab A9+ 27.94 cm, ',
+      price: '89999',
+
+
+    }
+    
 
   ]
